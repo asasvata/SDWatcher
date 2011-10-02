@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SDWatcher</string>
+	<string name="btn_start">start</string>
+	<string name="btn_stop">stop</string>
+	<string name="notification_ticker">start SDWatcher</string>
+	<string name="notification_title">SDWatcher</string>
+	<string name="notification_message">running...</string>
+	<string name="notification_massage_created">" was created"</string>
+	<string name="notification_massage_deleted">" was deleted"</string>
+	<string name="notification_massage_dir_created">"(directory) was created"</string>
+	<string name="notification_massage_dir_deleted">"(directory) was deleted"</string>
+</resources>
